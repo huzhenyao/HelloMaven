@@ -14,7 +14,5 @@ public class App
         System.out.println("第一次修改!!!!");
 
         System.out.println("我是dev");
-
-        System.out.println("第二次提交!!!");
     }
 }
